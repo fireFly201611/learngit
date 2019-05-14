@@ -15,3 +15,6 @@ Git has a mutable index called stage.
 
 
 9，Creating a new branch is quick & simple.
+
+10，更改了，但是才完成一半代码。还不能提交！
+11，现在完成了，提交吧。
